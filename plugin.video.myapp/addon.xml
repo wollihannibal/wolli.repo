@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.myapp" name="Ef allt bregst" version="99.0.0" provider-name="prufa">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="repository.xbmc-israel" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Our amazing new Addon</summary>
+    <description lang="en">Our amazing ned Addon</description>
+    <platform>all</platform>
+  </extension>
+</addon>
