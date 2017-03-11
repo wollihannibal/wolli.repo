@@ -1,0 +1,37 @@
+# wolli.repo
+#EXTM3U
+
+#EXTINF:0,===> Sport <===
+http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/107.ts
+#EXTINF:0,Bein Sports 11
+http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/279.ts
+#EXTINF:0,Bein Sports 12
+http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/278.ts
+#EXTINF:0,BT Sport 1HD
+http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/261.ts
+#EXTINF:0,BT Sport 2HD
+http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/260.ts
+#EXTINF:0,Fox Sport US 1
+http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/273.ts
+#EXTINF:0,Fox Sport US 2
+http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/272.ts
+#EXTINF:0,Sky Sports UK HD 1
+http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/266.ts
+#EXTINF:0,Sky Sports UK HD 2
+http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/265.ts
+#EXTINF:0,Sky Sports UK HD 3
+http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/264.ts
+#EXTINF:0,Sky Sports UK HD 4
+http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/263.ts
+#EXTINF:0,Sky Sports UK HD 5
+http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/262.ts
+#EXTINF:0,TSN 1
+http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/271.ts
+#EXTINF:0,TSN 2
+http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/270.ts
+#EXTINF:0,TSN 3
+http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/269.ts
+#EXTINF:0,TSN 4
+http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/268.ts
+#EXTINF:0,TSN 5
+http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/267.ts
